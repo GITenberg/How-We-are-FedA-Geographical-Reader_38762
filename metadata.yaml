@@ -1,0 +1,36 @@
+_repo: How-We-are-FedA-Geographical-Reader_38762
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chamberlain, James Franklin
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '39647'
+    url: http://www.gutenberg.org/2009/agents/39647
+description: ''
+gutenberg_issued: '2012-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Readers -- Geography'
+- !lcsh 'Food'
+tableOfContents: The past and the present -- The story of a loaf of bread -- How our
+  meat is supplied -- Market gardening -- Dairy products -- Butter making -- Cheese
+  -- The fishing industry -- Oyster farming -- A rice field -- How sugar is made --
+  Beet sugar -- Maple sugar -- Where salt comes from -- Macaroni and vermicelli --
+  On a coffee plantation -- The tea gardens of China -- A cup of cocoa -- A cranberry
+  bog -- The cocoanut islands of the Pacific -- A bunch of bananas -- How dates grow
+  -- The orange groves of Southern California -- A visit to a vineyard -- Nutting
+  -- A walnut vacation -- Chestnuts -- A bag of peanuts -- Assorted nuts -- A strange
+  conversation.
+title: 'How We Are Fed: A Geographical Reader'
+url: http://www.gutenberg.org/ebooks/38762
